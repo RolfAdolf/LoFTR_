@@ -1,6 +1,6 @@
 # LoFTR
 
-Detector-Free Local Feature Matching with Transformers. Авторы были вдохновлены успехом SuperGlue и тоже решили приспособить архитектуру Transformer для
+Detector-Free Local Feature Matching with Transformers. Авторы были вдохновлены успехом SuperGlue и решили приспособить архитектуру Transformer для
 целей мэтчинга. Также предложено использовать объединённую архитектуру для обнаружения ключевых точек, сопоставления векторов признаков и мэтчинга в отличие от типичных подходов.
 
 <p align="center">
