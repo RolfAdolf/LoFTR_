@@ -16,3 +16,14 @@ LoFTR имеет 4 основных компонента. В первом ком
 
 Для запуска моделей локально необходимо иметь проект [Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization).
 Или попробовать colab ➡️ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fsE028H1pbqTwena6OZbLRChfHdMPYGk?usp=sharing)
+
+## Установка [Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization)
+
+Для `hloc` необходим Python >=3.7 и PyTorch >=1.1. Command line:
+```bash
+git clone --recursive https://github.com/cvg/Hierarchical-Localization/
+cd Hierarchical-Localization/
+python -m pip install -e .
+```
+
+Все зависимости описаны в `requirements.txt`. 
