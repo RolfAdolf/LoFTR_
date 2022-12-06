@@ -12,7 +12,7 @@ LoFTR имеет 4 основных компонента. В первом ком
 
 Модель достигает SOTA результатов в задачах Visual Localization и Relative Pose Estimation. Для пары изображений разрешением 640х480 модель выдаёт результат за 116 мс на RTX 2080Ti.
 
-## 
+## Демонстрация
 
 Для запуска моделей локально необходимо иметь проект [Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization).
 Или попробовать colab ➡️ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fsE028H1pbqTwena6OZbLRChfHdMPYGk?usp=sharing)
