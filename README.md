@@ -4,7 +4,7 @@ Detector-Free Local Feature Matching with Transformers. Авторы были в
 целей мэтчинга. Также предложено использовать объединённую архитектуру для обнаружения ключевых точек, сопоставления векторов признаков и мэтчинга в отличие от типичных подходов.
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2104.00680"><img src="images/GGIMpDo2Kok.jpg" width="60%"/></a>
+  <a href="https://arxiv.org/abs/2104.00680"><img src="images/GGIMpDo2Kok.jpg" width="100%"/></a>
   <br /><em>Архитектура LoFTR</em>
 </p>
 
